@@ -10,4 +10,4 @@ Incluye:
         5) x509
         6) BASE64
         
-Versión Alpa 0.2
+Versión Alpha 0.2
